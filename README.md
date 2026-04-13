@@ -37,3 +37,4 @@ my finished schematics
 | CH340C USB-UART | USB-UART | 1 | $0.58 | LCSC | [link](https://www.lcsc.com/product-detail/C84681.html) |
 
 **Total: ~$45.00 USD**
+with shipping and tax: $61.14
