@@ -36,5 +36,6 @@ my finished schematics
 | AMS1117-3.3 LDO | Regulator | 5 | $1.13 | LCSC | [link](https://www.lcsc.com/product-detail/C6186.html) |
 | CH340C USB-UART | USB-UART | 1 | $0.58 | LCSC | [link](https://www.lcsc.com/product-detail/C84681.html) |
 | JST B2B-PH-K-S(LF)(SN) | JST PH 2.0mm 2pin vertical connector | 20 | $0.67 | LCSC | [link](https://www.lcsc.com/product-detail/C131337.html?s_z=n_JST%2520PH%25202.0mm%25202pin%2520vertical%2520connector&spm=wm.ssy.bg.0.xh&lcsc_vid=ElILAgAEQVUPAgEDTldfUFVVQgMPUQdXRlUMVFMHQVcxVlNRQVBdVFFWQVVdUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) |
+soldering paste  soldering   5.09$
 
-total with shipping and tax: $61.81 usd
+total with shipping and tax: $66.90 usd
