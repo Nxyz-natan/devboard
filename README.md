@@ -40,3 +40,9 @@ soldering paste  soldering   5.09$
 soldering tweeters	placing down components	-	$5.89	-	aliexpress
 
 total with shipping and tax: $74.93 usd
+
+
+
+finished soldering
+<img width="3024" height="4032" alt="IMG_0136" src="https://github.com/user-attachments/assets/26970fed-ec47-4fa2-b0fa-7635e279b891" />
+
